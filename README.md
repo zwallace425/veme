@@ -4,7 +4,7 @@
 
 This respository provides the Jupyter Notebooks for analyzing the single cell RNA-seq data
 produce by Melms et al. in https://www.nature.com/articles/s41586-021-03569-1.  This study
-analyze lung tissue in patients who passed from COVID-19 and analyzing immune response 
+analyzes lung tissue in patients who passed from COVID-19 and analyzing immune response 
 at a cellular level
 
 ## Running this Work
