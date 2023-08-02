@@ -11,3 +11,4 @@ pip install louvain
 pip install scanpy
 pip install anndata
 pip install --user nsforest
+pip install cellxgene
